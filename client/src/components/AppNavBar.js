@@ -41,8 +41,6 @@ class AppNavbar extends Component {
         </div>
         );
     }
-
 }
-
 
 export default AppNavbar;
